@@ -1,0 +1,14 @@
+﻿  소스.c
+d:\선린인고\비쥬얼\프밍 배열 사용 과제\프밍 배열 사용 과제\소스.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\선린인고\비쥬얼\프밍 배열 사용 과제\프밍 배열 사용 과제\소스.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\선린인고\비쥬얼\프밍 배열 사용 과제\프밍 배열 사용 과제\소스.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\선린인고\비쥬얼\프밍 배열 사용 과제\프밍 배열 사용 과제\소스.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\선린인고\비쥬얼\프밍 배열 사용 과제\프밍 배열 사용 과제\소스.c(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\선린인고\비쥬얼\프밍 배열 사용 과제\프밍 배열 사용 과제\소스.c(71): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  프밍 배열 사용 과제.vcxproj -> D:\선린인고\비쥬얼\프밍 배열 사용 과제\Debug\프밍 배열 사용 과제.exe
