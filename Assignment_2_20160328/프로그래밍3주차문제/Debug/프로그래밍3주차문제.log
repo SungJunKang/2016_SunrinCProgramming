@@ -1,0 +1,8 @@
+﻿  7.c
+e:\강성준\프로그래밍3주차문제\프로그래밍3주차문제\7.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+e:\강성준\프로그래밍3주차문제\프로그래밍3주차문제\7.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+e:\강성준\프로그래밍3주차문제\프로그래밍3주차문제\7.c(14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  프로그래밍3주차문제.vcxproj -> E:\강성준\프로그래밍3주차문제\Debug\프로그래밍3주차문제.exe
