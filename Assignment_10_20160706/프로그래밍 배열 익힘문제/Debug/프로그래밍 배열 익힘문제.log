@@ -1,0 +1,7 @@
+﻿  10.c
+e:\강성준\비쥬얼 스튜디오\프로그래밍 배열 익힘문제\프로그래밍 배열 익힘문제\10.c(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\강성준\비쥬얼 스튜디오\프로그래밍 배열 익힘문제\프로그래밍 배열 익힘문제\10.c(21): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+e:\강성준\비쥬얼 스튜디오\프로그래밍 배열 익힘문제\프로그래밍 배열 익힘문제\10.c(26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+e:\강성준\비쥬얼 스튜디오\프로그래밍 배열 익힘문제\프로그래밍 배열 익힘문제\10.c(5): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  프로그래밍 배열 익힘문제.vcxproj -> E:\강성준\비쥬얼 스튜디오\프로그래밍 배열 익힘문제\Debug\프로그래밍 배열 익힘문제.exe
