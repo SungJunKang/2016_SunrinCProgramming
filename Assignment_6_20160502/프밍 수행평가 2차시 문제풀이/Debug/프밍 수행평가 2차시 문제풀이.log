@@ -1,0 +1,8 @@
+﻿  test08.c
+e:\강성준\프밍 수행평가 2차시 문제풀이\프밍 수행평가 2차시 문제풀이\test08.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+e:\강성준\프밍 수행평가 2차시 문제풀이\프밍 수행평가 2차시 문제풀이\test08.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+e:\강성준\프밍 수행평가 2차시 문제풀이\프밍 수행평가 2차시 문제풀이\test08.c(17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  프밍 수행평가 2차시 문제풀이.vcxproj -> E:\강성준\프밍 수행평가 2차시 문제풀이\Debug\프밍 수행평가 2차시 문제풀이.exe
