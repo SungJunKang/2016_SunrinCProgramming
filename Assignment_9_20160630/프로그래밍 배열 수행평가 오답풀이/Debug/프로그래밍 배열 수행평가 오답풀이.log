@@ -1,0 +1,5 @@
+﻿  9.c
+e:\강성준\비쥬얼 스튜디오\프로그래밍 배열 수행평가 오답풀이\프로그래밍 배열 수행평가 오답풀이\9.c(23): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+e:\강성준\비쥬얼 스튜디오\프로그래밍 배열 수행평가 오답풀이\프로그래밍 배열 수행평가 오답풀이\9.c(5): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  프로그래밍 배열 수행평가 오답풀이.vcxproj -> E:\강성준\비쥬얼 스튜디오\프로그래밍 배열 수행평가 오답풀이\Debug\프로그래밍 배열 수행평가 오답풀이.exe
